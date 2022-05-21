@@ -1,0 +1,4 @@
+The products ordered more than 1 number of times
+Product: Beef Stock , ordered 3 times
+Product: cal, ordered 2 times
+Product: meniu, ordered 2 times

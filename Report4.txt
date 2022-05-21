@@ -1,0 +1,5 @@
+The products ordered within 2022-05-10 and the number of times they have been ordered
+Product: Beef Stock   Nr. of times ordered: 3  
+Product: cal  Nr. of times ordered: 2  
+Product: meniu  Nr. of times ordered: 2  
+Product: Fish Stock   Nr. of times ordered: 1  

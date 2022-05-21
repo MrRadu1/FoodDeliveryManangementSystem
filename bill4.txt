@@ -1,0 +1,7 @@
+Order: 4
+Date: 2022-05-10 11:20
+Client: 3
+Price: 27
+
+Products: 
+Name: Fish Stock  Price: 27

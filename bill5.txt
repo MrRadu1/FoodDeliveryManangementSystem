@@ -1,0 +1,8 @@
+Order: 5
+Date: 2022-05-10 11:21
+Client: 3
+Price: 190
+
+Products: 
+Name: meniu Price: 164
+Name: Beef Stock  Price: 26

@@ -1,0 +1,2 @@
+The clients that have ordered more than 2 times and the value of the order was higher than 50
+CLient: 3

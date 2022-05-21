@@ -1,0 +1,8 @@
+Order: 2
+Date: 2022-05-10 11:19
+Client: 2
+Price: 275
+
+Products: 
+Name: cal Price: 111
+Name: meniu Price: 164
